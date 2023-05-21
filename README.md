@@ -1,5 +1,3 @@
-# real-time-code-editor
-
 LIVE DEMO : https://real-time-code-editor-gunjan.netlify.app/
 
 SNAP SHOTS For Quick Overview
