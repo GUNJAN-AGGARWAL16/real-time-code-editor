@@ -2,7 +2,7 @@
 
 LIVE DEMO : https://real-time-code-editor-gunjan.netlify.app/
 
-SNAP SHOTS
+SNAP SHOTS For Quick Overview
 
 Snapshot 1: This is the homepage of my application. It contains the login form includes “Room Id” and “Username” info. After filling, click “Join”. You can also click on “new room” hyperlink to generate random room number id.
  ![image](https://github.com/GUNJAN-AGGARWAL16/real-time-code-editor/assets/76522256/1c35d4ac-31e1-48c5-b7a2-b40f08e56586)
